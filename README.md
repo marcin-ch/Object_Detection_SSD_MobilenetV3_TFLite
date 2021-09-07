@@ -8,4 +8,6 @@ Described in the notebok, just hit below button:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcin-ch/Object_Detection_SSD_MobilenetV3_TFLite/blob/main/Object_Detection_SSD_MobilenetV3_TFLite.ipynb)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcin-ch/Object_Detection_SSD_MobilenetV3_TFLite/Object_Detection_SSD_MobilenetV3_TFLite.ipynb)
+
 and then `Ctrl+F9` (`Run All`)
